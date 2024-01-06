@@ -13,16 +13,16 @@ export const Logo = () => {
     return (
         <Link href="/">
             <div className="flex items-center gap-x-4 hover:opacity-75 transition">
-                <div className="bg-white rounded-full p-1 mr-12 shrink-0 lg:mr-0 lg:shrink">
-                    <Image src="/spooky.svg" alt="Tidefy" height="32" width="32" />
+                <div className="bg-slate-300/5 rounded-full p-1 mr-12 shrink-0 lg:mr-0 lg:shrink">
+                    <Image src="/tidefy-logo-final.png" alt="Tidefy" height="32" width="32" />
                 </div>
                 <div className={cn(
-                    "hidden lg:block",
+                    "hidden lg:flex",
                     font.className)}>
-                    <p className="text-lg font-semibold">
+                    <p className="text-lg font-semibold mr-4">
                         Tidefy
                     </p>
-                    <p className="text-xs text-muted-foreground">
+                    <p className="mt-[7px] text-xs text-muted-foreground">
                         Creator dashboard
                     </p>
                 </div>

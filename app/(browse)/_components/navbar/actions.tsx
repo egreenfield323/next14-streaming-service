@@ -30,7 +30,6 @@ export const Actions = async () => {
                     <UserButton afterSwitchSessionUrl="/" />
                 </div>
             )}
-
         </div>
     );
 };
