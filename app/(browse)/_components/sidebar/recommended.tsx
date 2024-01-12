@@ -23,12 +23,12 @@ export const Recommended = ({
         <div>
             {showLabel && (
                 <div className="pl-6 mb-4">
-                    <p className="text-sm text-muted-foreground">
+                    <p className="text-sm text-[#fffdf0]">
                         Recommended
                     </p>
                 </div>
             )}
-            <ul className="space-y-2 px-2">
+            <ul className="space-y-2 px-2 text-stone-800">
                 {data.map((user) => (
                     <UserItem key={user.id} username={user.username} imageUrl={user.imageUrl} isLive={user.stream?.isLive} />
                 ))}

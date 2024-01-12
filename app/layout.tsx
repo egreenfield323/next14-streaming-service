@@ -10,8 +10,9 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tidefy",
-  description: "Tidefy streaming",
+  title: "crabby",
+  description: "crabby streaming",
+  
 };
 
 export default function RootLayout({
@@ -23,7 +24,7 @@ export default function RootLayout({
     <ClerkProvider appearance={{ baseTheme: dark }}>
       <html lang="en">
         <body className={inter.className}>
-          <ThemeProvider attribute="class" forcedTheme="dark" storageKey="tidefy-theme">
+          <ThemeProvider attribute="class" forcedTheme="light" storageKey="tidefy-theme">
             <Toaster theme="light" position="bottom-center" />
             {children}
           </ThemeProvider>

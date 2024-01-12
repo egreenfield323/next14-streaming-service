@@ -21,19 +21,19 @@ export const Toggle = () => {
                 <div className="w-full hidden lg:flex items-center justify-center pt-4 mb-4">
                     <Hint label={label} side="right" asChild>
                         <Button onClick={onExpand} variant="ghost" className="h-auto p-2">
-                            <ArrowRightFromLine className="h-4 w-4" />
+                            <ArrowRightFromLine className="h-4 w-4 text-stone-800" />
                         </Button>
                     </Hint>
                 </div>
             )}
             {!collapsed && (
                 <div className="p-3 pl-6 mb-2 hidden lg:flex items-center w-full">
-                    <p className="font-semibold text-primary">
+                    <p className="font-semibold text-[#fff]">
                         Dashboard
                     </p>
                     <Hint label={label} side="right" asChild>
                         <Button onClick={onCollapse} variant="ghost" className="h-auto p-2 ml-auto">
-                            <ArrowLeftFromLine className="h-4 w-4" />
+                            <ArrowLeftFromLine className="h-4 w-4 text-stone-800" />
                         </Button>
                     </Hint>
                 </div>

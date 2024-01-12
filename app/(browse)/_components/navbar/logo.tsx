@@ -14,13 +14,13 @@ export const Logo = () => {
         <Link href="/">
             <div className="flex items-center gap-x-4 hover:opacity-75 transition">
                 <div className="bg-slate-300/5 rounded-full p-1 mr-12 shrink-0 lg:mr-0 lg:shrink">
-                    <Image src="/tidefy-logo-final.png" alt="Tidefy" height="32" width="32" />
+                    <Image src="/crabs-logo.png" alt="crabby" height="32" width="32" />
                 </div>
                 <div className={cn(
                     "hidden lg:block",
                     font.className)}>
-                    <p className="text-lg font-semibold">
-                        Tidefy
+                    <p className="text-lg font-semibold text-[#fffdf0]">
+                        crabby.tv
                     </p>
                 </div>
             </div>

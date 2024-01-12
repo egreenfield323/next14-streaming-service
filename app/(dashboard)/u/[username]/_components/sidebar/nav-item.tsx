@@ -28,9 +28,9 @@ export const NavItem = ({
             asChild
             variant="ghost"
             className={cn(
-                "w-full h-12",
+                "w-full h-12 hover:bg-slate-800 hover:text-[#fffdf0]",
                 collapsed ? "justify-center" : "justify-start",
-                isActive && "bg-accent",
+                isActive && "bg-slate-800",
             )}
         >
             <Link href={href}>
