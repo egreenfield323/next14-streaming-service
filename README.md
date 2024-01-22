@@ -12,14 +12,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <br />
 <div align="center">
   <a href="https://github.com/egreenfield323/next14-tidefy">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="public/crabs-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Nextjs streaming platform</h3>
 
   <p align="center">
-    Originally named Tidefy, this is a Nextjs application I created, following along to a [Code with Antonio](https://www.codewithantonio.com/) tutorial. 
-    <br />
+    Originally named Tidefy and now themed off a crab, this is a Nextjs application I created following along to <a href="https://www.codewithantonio.com/">Code with Antonio</a> tutorial. 
     <br />
     <a href="https://next14-tidefy.vercel.app/">View the live project</a>
     ·
@@ -33,12 +32,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -46,33 +41,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://next14-tidefy.vercel.app/)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Tailwind][Tailwind.css]][Tailwind-url]
-* [![MySQL][MySQL]][MySQL-url]
-* [![Prisma][Prisma]][Prisma-url]
-* [![Ngrok][Ngrok]][Ngrok-url]
+* [![MySQL][MySQL.com]][MySQL-url]
+* [![Prisma][Prisma.com]][Prisma-url]
+* [![Ngrok][Ngrok.com]][Ngrok-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +109,7 @@ Evan Greenfield - [Linkedin](https://www.linkedin.com/in/evangreenfield1/) - eva
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
 [stars-url]: https://github.com/github_username/repo_name/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/egreenfield323/next14-tidefy/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
@@ -152,6 +132,10 @@ Evan Greenfield - [Linkedin](https://www.linkedin.com/in/evangreenfield1/) - eva
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [Tailwind-url]: https://tailwindcss.com
+[Tailwind.css]: https://img.shields.io/badge/tailwind-001547?style=for-the-badge&logo=tailwindcss&logoColor=white
 [MySQL-url]: https://www.mysql.com
+[MySQL.com]: https://img.shields.io/badge/MySQL-0769AD?style=for-the-badge&logo=mysql&logoColor=white
 [Primsa-url]: https://www.prisma.io
+[Prisma.com]: https://img.shields.io/badge/prisma-4C51BF?style=for-the-badge&logo=prisma&logoColor=white
 [Ngrok-url]: https://ngrok.com
+[Ngrok.com]: https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=ngrok&logoColor=white
