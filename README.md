@@ -102,16 +102,16 @@ Evan Greenfield - [Linkedin](https://www.linkedin.com/in/evangreenfield1/) - eva
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/egreenfield323/next14-tidefy.svg?style=for-the-badge
+[contributors-url]: https://github.com/egreenfield323/next14-tidefy/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/egreenfield323/next14-tidefy.svg?style=for-the-badge
+[forks-url]: https://github.com/egreenfield323/next14-tidefy/network/members
+[stars-shield]: https://img.shields.io/github/stars/egreenfield323/next14-tidefy.svg?style=for-the-badge
+[stars-url]: https://github.com/egreenfield323/next14-tidefy/stargazers
+[issues-shield]: https://img.shields.io/github/issues/egreenfield323/next14-tidefy.svg?style=for-the-badge
 [issues-url]: https://github.com/egreenfield323/next14-tidefy/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/egreenfield323/next14-tidefy.svg?style=for-the-badge
+[license-url]: https://github.com/egreenfield323/next14-tidefy/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
@@ -135,7 +135,7 @@ Evan Greenfield - [Linkedin](https://www.linkedin.com/in/evangreenfield1/) - eva
 [Tailwind.css]: https://img.shields.io/badge/tailwind-001547?style=for-the-badge&logo=tailwindcss&logoColor=white
 [MySQL-url]: https://www.mysql.com
 [MySQL.com]: https://img.shields.io/badge/MySQL-0769AD?style=for-the-badge&logo=mysql&logoColor=white
-[Primsa-url]: https://www.prisma.io
+[Prisma-url]: https://www.prisma.io
 [Prisma.com]: https://img.shields.io/badge/prisma-4C51BF?style=for-the-badge&logo=prisma&logoColor=white
 [Ngrok-url]: https://ngrok.com
 [Ngrok.com]: https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=ngrok&logoColor=white
