@@ -11,18 +11,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/egreenfield323/next14-tidefy">
+  <a href="https://github.com/egreenfield323/next14-tidefy" target="_blank">
     <img src="public/crabs-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Nextjs streaming platform</h3>
 
   <p align="center">
-    Originally named Tidefy and now themed off a crab, this is a Nextjs application I created following along to <a href="https://www.codewithantonio.com/">Code with Antonio</a> tutorial. 
+    Originally named Tidefy and now themed off a crab, this is a Nextjs application I created following along to <a href="https://www.codewithantonio.com/" target="_blank">Code with Antonio</a> tutorial. 
     <br />
-    <a href="https://next14-tidefy.vercel.app/">View the live project</a>
+    <a href="https://next14-tidefy.vercel.app/" target="_blank">View the live project</a>
     ·
-    <a href="https://github.com/egreenfield323/next14-tidefy/issues">Report Bug</a>
+    <a href="https://github.com/egreenfield323/next14-tidefy/issues" target="_blank">Report Bug</a>
     </p>
 </div>
 
@@ -113,7 +113,7 @@ Evan Greenfield - [Linkedin](https://www.linkedin.com/in/evangreenfield1/) - eva
 [license-shield]: https://img.shields.io/github/license/egreenfield323/next14-tidefy.svg?style=for-the-badge
 [license-url]: https://github.com/egreenfield323/next14-tidefy/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/evangreenfield1/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
