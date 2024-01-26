@@ -22,7 +22,7 @@ export const Logo = () => {
                     <p className="text-lg font-semibold mr-4 text-[#fffdf0]">
                         crabby.tv
                     </p>
-                    <p className="mt-[7px] text-xs text-muted-foreground text-[#fffdf0]">
+                    <p className="mt-[7px] text-xs text-[#fffdf0]/80">
                         Creator dashboard
                     </p>
                 </div>
