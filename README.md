@@ -11,9 +11,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/egreenfield323/next14-tidefy" target="_blank">
-    <img src="public/crabs-logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Nextjs streaming platform</h3>
 
