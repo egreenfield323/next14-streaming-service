@@ -1,4 +1,4 @@
-Deployed link: https://next14-tidefy.vercel.app/
+Deployed link: https://next14-tidefy.vercel.app/ (I have slept the database server so this deployment will not be visible)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
